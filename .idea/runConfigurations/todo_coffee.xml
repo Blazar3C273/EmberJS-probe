@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="todo.coffee" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="js/app.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="/usr/local/bin/coffee" coffeescript-run="true" coffeescript-params="--map --compile ">
+    <browser start="false" name="Chrome" url="" with-js-debugger="true" />
+    <RunnerSettings RunnerId="NodeJS.run" />
+    <ConfigurationWrapper RunnerId="NodeJS.run" />
+    <method />
+  </configuration>
+</component>

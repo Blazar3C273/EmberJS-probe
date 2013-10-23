@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/coffee/controllers/todos_controller.js" />
+        <item url="file://$PROJECT_DIR$/js/models/todo.js" />
+        <item url="file://$PROJECT_DIR$/js/views/edit_todo_view.js" />
+        <item url="file://$PROJECT_DIR$/coffee/application.js" />
+        <item url="file://$PROJECT_DIR$/js/app.js" />
+        <item url="file://$PROJECT_DIR$/js/views/edit_todo_view2.js" />
+        <item url="file://$PROJECT_DIR$/coffee/models/model.js" />
+        <item url="file://$PROJECT_DIR$/js/router.js" />
+        <item url="file://$PROJECT_DIR$/coffee/controllers/todo_controller.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/coffee/controllers/todos_controller.js" />
+      <root url="file://$PROJECT_DIR$/coffee/application.js" />
+      <root url="file://$PROJECT_DIR$/js/views/edit_todo_view.js" />
+      <root url="file://$PROJECT_DIR$/js/models/todo.js" />
+      <root url="file://$PROJECT_DIR$/js/app.js" />
+      <root url="file://$PROJECT_DIR$/coffee/models/model.js" />
+      <root url="file://$PROJECT_DIR$/js/views/edit_todo_view2.js" />
+      <root url="file://$PROJECT_DIR$/js/router.js" />
+      <root url="file://$PROJECT_DIR$/coffee/controllers/todo_controller.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
